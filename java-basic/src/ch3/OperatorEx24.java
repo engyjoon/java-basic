@@ -27,7 +27,7 @@ public class OperatorEx24 {
 		System.out.printf("ch = '%c', 'A' <= ch && ch <= 'Z' ==>> %b %n", ch, 'A' <= ch && ch <= 'Z');
 		
 		ch = 'q';
-		System.out.printf("ch = '%c', 'q' == ch && ch == 'Q' ==>> %b %n", ch, 'q' == ch || ch == 'Q');
+		System.out.printf("ch = '%c', 'q' == ch || ch == 'Q' ==>> %b %n", ch, 'q' == ch || ch == 'Q');
 	}
 
 }
