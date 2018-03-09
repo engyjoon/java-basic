@@ -1,4 +1,4 @@
-package ch2;
+package ch3;
 
 public class OperationEx4 {
 
